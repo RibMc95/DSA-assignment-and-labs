@@ -1,22 +1,22 @@
-Start testing: Sep 08 03:05 UTC
+Start testing: Sep 08 03:56 UTC
 ----------------------------------------------------------
 1/4 Testing: Student JSON serialization
 1/4 Test: Student JSON serialization
 Command: "/workspaces/DSA-assignment-and-labs/lab 1.2/build/tests" "Student JSON serialization"
 Directory: /workspaces/DSA-assignment-and-labs/lab 1.2/build
-"Student JSON serialization" start time: Sep 08 03:05 UTC
+"Student JSON serialization" start time: Sep 08 03:56 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Student JSON serialization"
-Randomness seeded to: 4079263507
+Randomness seeded to: 392066651
 ===============================================================================
 All tests passed (3 assertions in 1 test case)
 
 <end of output>
-Test time =   0.13 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Student JSON serialization" end time: Sep 08 03:05 UTC
+"Student JSON serialization" end time: Sep 08 03:56 UTC
 "Student JSON serialization" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -24,11 +24,11 @@ Test Passed.
 2/4 Test: Instructor YAML serialization
 Command: "/workspaces/DSA-assignment-and-labs/lab 1.2/build/tests" "Instructor YAML serialization"
 Directory: /workspaces/DSA-assignment-and-labs/lab 1.2/build
-"Instructor YAML serialization" start time: Sep 08 03:05 UTC
+"Instructor YAML serialization" start time: Sep 08 03:56 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Instructor YAML serialization"
-Randomness seeded to: 626481057
+Randomness seeded to: 171923079
 ===============================================================================
 All tests passed (2 assertions in 1 test case)
 
@@ -36,7 +36,7 @@ All tests passed (2 assertions in 1 test case)
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"Instructor YAML serialization" end time: Sep 08 03:05 UTC
+"Instructor YAML serialization" end time: Sep 08 03:56 UTC
 "Instructor YAML serialization" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -44,11 +44,11 @@ Test Passed.
 3/4 Test: CSV escaping handles commas and quotes
 Command: "/workspaces/DSA-assignment-and-labs/lab 1.2/build/tests" "CSV escaping handles commas and quotes"
 Directory: /workspaces/DSA-assignment-and-labs/lab 1.2/build
-"CSV escaping handles commas and quotes" start time: Sep 08 03:05 UTC
+"CSV escaping handles commas and quotes" start time: Sep 08 03:56 UTC
 Output:
 ----------------------------------------------------------
 Filters: "CSV escaping handles commas and quotes"
-Randomness seeded to: 4203364843
+Randomness seeded to: 3230589919
 ===============================================================================
 All tests passed (1 assertion in 1 test case)
 
@@ -56,7 +56,7 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"CSV escaping handles commas and quotes" end time: Sep 08 03:05 UTC
+"CSV escaping handles commas and quotes" end time: Sep 08 03:56 UTC
 "CSV escaping handles commas and quotes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -64,11 +64,11 @@ Test Passed.
 4/4 Test: Validation throws on bad email
 Command: "/workspaces/DSA-assignment-and-labs/lab 1.2/build/tests" "Validation throws on bad email"
 Directory: /workspaces/DSA-assignment-and-labs/lab 1.2/build
-"Validation throws on bad email" start time: Sep 08 03:05 UTC
+"Validation throws on bad email" start time: Sep 08 03:56 UTC
 Output:
 ----------------------------------------------------------
 Filters: "Validation throws on bad email"
-Randomness seeded to: 607070619
+Randomness seeded to: 3754138304
 ===============================================================================
 All tests passed (1 assertion in 1 test case)
 
@@ -76,8 +76,8 @@ All tests passed (1 assertion in 1 test case)
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"Validation throws on bad email" end time: Sep 08 03:05 UTC
+"Validation throws on bad email" end time: Sep 08 03:56 UTC
 "Validation throws on bad email" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 08 03:05 UTC
+End testing: Sep 08 03:56 UTC
