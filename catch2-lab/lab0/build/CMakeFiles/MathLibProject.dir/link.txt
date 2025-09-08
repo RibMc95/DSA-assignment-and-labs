@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MathLibProject.dir/src/main.cpp.o CMakeFiles/MathLibProject.dir/src/math_functions.cpp.o -o MathLibProject 

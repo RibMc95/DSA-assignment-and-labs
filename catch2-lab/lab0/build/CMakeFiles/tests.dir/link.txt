@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests.dir/tests/math_tests.cpp.o CMakeFiles/tests.dir/src/math_functions.cpp.o -o tests  _deps/catch2-build/src/libCatch2Main.a _deps/catch2-build/src/libCatch2.a 

@@ -1,0 +1,7 @@
+add_test( [==[Square root of positive numbers]==] /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/tests [==[Square root of positive numbers]==]  )
+set_tests_properties( [==[Square root of positive numbers]==] PROPERTIES WORKING_DIRECTORY /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build)
+add_test( [==[Square root of negative numbers]==] /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/tests [==[Square root of negative numbers]==]  )
+set_tests_properties( [==[Square root of negative numbers]==] PROPERTIES WORKING_DIRECTORY /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build)
+add_test( [==[Square root of non-perfect squares]==] /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/tests [==[Square root of non-perfect squares]==]  )
+set_tests_properties( [==[Square root of non-perfect squares]==] PROPERTIES WORKING_DIRECTORY /workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build)
+set( tests_TESTS [==[Square root of positive numbers]==] [==[Square root of negative numbers]==] [==[Square root of non-perfect squares]==])
