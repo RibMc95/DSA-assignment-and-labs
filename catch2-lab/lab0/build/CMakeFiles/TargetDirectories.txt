@@ -1,0 +1,13 @@
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/CMakeFiles/MathLibProject.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/CMakeFiles/tests.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/CMakeFiles/test.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/CMakeFiles/edit_cache.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/CMakeFiles/rebuild_cache.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/CMakeFiles/test.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/src/CMakeFiles/test.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+/workspaces/DSA-assignment-and-labs/catch2-lab/lab0/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir

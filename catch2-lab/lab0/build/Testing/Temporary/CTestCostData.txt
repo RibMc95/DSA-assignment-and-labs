@@ -1,0 +1,4 @@
+Square root of positive numbers 1 0.00268743
+Square root of negative numbers 1 0.00441372
+Square root of non-perfect squares 1 0.00360507
+---
